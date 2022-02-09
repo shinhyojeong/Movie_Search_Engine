@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d83482b0-0cf1-4473-848e-0f2056a83595/deploy-status)](https://app.netlify.com/sites/pedantic-agnesi-2e721d/deploys)
 
-[Movie Search Engine Link](https://heuristic-bohr-a9d6d3.netlify.app)
+[Movie Search Engine Link](https://hj-movie-search-engine.netlify.app)
 
 ## 🎬 시연 영상
 
